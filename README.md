@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @FirminBarbier
 - 👀 I’m interested in forest
-- 🌱 I’m currently learning the forest
-- 💞️ I’m looking to collaborate on Eden Hazard
-- 📫 How to reach me To email or to number phone
+- 🌱 I’m currently learning the informatic
+- 💞️ I’m looking to collaborate on I don't know
+- 📫 How to reach me ? To email or to number phone
 - 😄 Pronouns: He
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I'm very bad in English but I write in English for this text
 
 <!---
 FirminBarbier/FirminBarbier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
